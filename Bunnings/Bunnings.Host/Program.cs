@@ -7,8 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 builder.Services.AddScoped<IJsonFileProcessor, JsonFileProcessor>();
-
 builder.Services.AddScoped<IHotProductCalculator, HotProductCalculator>();
+builder.Services.AddScoped<IOrderProcessor, OrderProcessor>();
 
 // Swagger services
 builder.Services.AddEndpointsApiExplorer();

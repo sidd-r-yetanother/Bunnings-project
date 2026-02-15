@@ -10,7 +10,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adef347a-fb8a-473a-b52c-ded4580fda83" name="Changes" comment="" />
+    <list default="true" id="adef347a-fb8a-473a-b52c-ded4580fda83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bunnings.Application.Tests/Implementation/OrderProcessorTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bunnings.Application/Implementation/OrderProcessor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bunnings.Application/Interface/IOrderProcessor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bunnings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bunnings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bunnings.Application.Tests/Implementation/HotProductCalculatorTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bunnings.Application.Tests/Implementation/HotProductCalculatorTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bunnings.Application/Implementation/HotProductCalculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bunnings.Application/Implementation/HotProductCalculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bunnings.Host/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bunnings.Host/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,13 +27,31 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sidd-r-yetanother"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sidd-r-yetanother/Bunnings-project.git",
+    "accountId": "d31ffe5f-74a8-4ca4-8295-8b9574c3c475"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/057eeff5d8764e358c7c7f31329a8c15e22600/05/c321413f/CollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/057eeff5d8764e358c7c7f31329a8c15e22600/be/e08f1249/HashSet`1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2f7b761f4e324ad0aab0b2731b4ffdc91de200/90/ac0251ef/ControllerBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Bunnings.Application.Tests/Implementation/HotProductCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Bunnings.Application.Tests/Implementation/OrderProcessorTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Bunnings.Application/Implementation/JsonFileProcessor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Bunnings.Application/Implementation/OrderProcessor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Bunnings.Application/Interface/IJsonFileProcessor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Bunnings.Application/Interface/IOrderProcessor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Bunnings.Domain/Models/Order.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Bunnings.Domain/Models/OrderLine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Bunnings.Domain/Models/OrderStatus.cs" root0="FORCE_HIGHLIGHTING" />
@@ -51,7 +77,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/sid/Projects/Bunnings/Bunnings-project/Bunnings",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -157,6 +186,7 @@
       <workItem from="1770975268317" duration="151000" />
       <workItem from="1770975432537" duration="1670000" />
       <workItem from="1770978464707" duration="13408000" />
+      <workItem from="1771151760337" duration="2797000" />
     </task>
     <servers />
   </component>
