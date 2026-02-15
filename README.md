@@ -1,5 +1,18 @@
 # Bunnings-project
 
+## Install & Run
+
+### Prerequisites
+- .NET SDK **9.0** installed
+
+### Start the host project
+> cd Bunnings/Bunnings.Host
+> 
+> dotnet run
+
+### Open Swagger UI
+**add `/swagger`** to the localhost address to view the Swagger UI.
+
 ## Edge cases handled
 
 - Orders with empty `entries` are safely ignored (no sales counted).
