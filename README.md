@@ -21,5 +21,4 @@
 - Cancellation records with no entries are supported by looking up the original completed order and crediting back its products.
 - Cancellations with no matching completed order are ignored safely.
 - Repeated cancellation events do not double-decrement totals (sale is removed from the “counted” set once credited back).
-- Missing product names fall back to `"Unknown"` rather than failing.
 - Days missing within the last-3-days window are skipped safely during period aggregation.
