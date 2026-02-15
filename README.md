@@ -1,6 +1,6 @@
 # Bunnings-project
 
-## Edge cases already handled
+## Edge cases handled
 
 - Orders with empty `entries` are safely ignored (no sales counted).
 - Duplicate product lines within the same order are counted once per product (`Distinct()`).
